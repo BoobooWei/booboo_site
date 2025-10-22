@@ -1,4 +1,4 @@
-# 魏亚萍的个人网站
+# Booboo Wei 的个人网站
 
 <!-- Markdown snippet -->
 
