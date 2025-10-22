@@ -1,0 +1,201 @@
+menu:
+  hexo: Hexo
+  MySQL8.0: MySQL8.0
+  news: News
+  plugins: Plugins
+  themes: Themes
+  singapore: Singapore
+  about: About
+  search: Search
+  amy: AMY
+  database: Database
+  devops: DevOps
+  linux: Linux
+  cloud: Cloud
+
+index:
+  get_started: Get started
+  theme_intro: Choose from a huge library of spectacular, feature-packed and customizable themes. Create your own using any compatible template engines.
+  theme_link: Explore themes
+
+page:
+  contents: Contents
+  back_to_top: Back to Top
+  improve: Improve this doc
+  prev: Prev
+  next: Next
+  last_updated: "Last updated: %s"
+
+sidebar:
+  docs:
+    getting_started: Getting Started
+    overview: 概述
+    setup_vscodium: 设置 VSCodium
+    try_hexo_6.1: 尝试 Hexo@6.1
+    deploy_hexo_8.0: 部署 Hexo@8.0
+    hexo_navy: 主题 Navy 
+
+
+
+  singapore:
+    getting_started: 新加坡
+    overview: 概述
+    singapore_01: 去还是不去
+    singapore_02: 去之前的准备工作
+
+  amy:
+    overview: 概览
+
+    withme: 陪孩子快乐成长
+    'Amy开心语录-第四篇': 'Amy开心语录-第四篇'
+    'Amy开心语录-第五篇': 'Amy开心语录-第五篇'
+    'Amy开心语录-第六篇': 'Amy开心语录-第六篇'
+    '团队家庭聚餐日': '团队家庭聚餐日'
+
+    '兴趣爱好': 兴趣爱好
+    dancing: 中国舞
+
+    english: English
+    'Amy上学记': Amy上学记
+    kindergarten: 幼儿园
+
+  api:
+    'overview': 概览
+    'mysql_8.0_reference_manual': MySQL 8.0 企业管理
+    'additions': 添加的功能
+    'deprecations': 不推荐使用的功能
+    # 企业管理
+    01-MySQL-Secure-Deployment-Guide: 安全部署指南
+    02-Starting-and-Stopping-MySQL: 启动和关闭
+    03-MySQL-Tutorial: 基础入门
+    04-MySQL-Globalization: 全球化
+    05-MySQL-Restrictions-and-Limitations: 限制和局限
+    06-MySQL-Partitioning: 分区
+    07-MySQL-Backup-and-Recovery: 备份和恢复
+    08-MySQL-Information-Schema: Information Schema
+    09-MySQL-Performance-Schema: Performance Schema
+    10-MySQL-SYS-Schema: SYS Schema
+    11-MySQL-Replication: Replication 复制
+    12-MySQL-Group-Replication: MGR 组复制
+    13-MySQL-Shell: MySQL Shell
+    14-MySQL-InnoDB-Storage-Engine: InnoDB 存储引擎
+    15-MySQL-Optimization: MySQL 优化
+    16-MySQL-Utilities: MySQL Utilities
+    00-others: MySQL 其他
+    # 添加的功能
+    'removals': 删除的功能
+    'data dictionary': 数据字典
+    'atomic ddl': Atomic DDL
+    'mysql upgrade': 升级程序
+    'security and account management': 安全性和帐户管理
+    'resource management': 资源管理
+    'table encryption management': 表加密管理
+    'innodb enhancements': InnoDB增强功能
+    'character set support': 字符集支持
+    'json enhancements': Json增强功能
+    'data type support': 数据类型支持
+    'optimizer': 优化器
+    'common table expressions': 常用表表达式
+    'window functions': 窗口函数
+    'lateral derived tables': 横向派生表
+    'aliases in single table delete statements': Single-Table DELETE
+    'regular expression support': 正则表达式支持
+    'internal tempoary tables': 内部临时表
+    'backup lock': Backup Lock
+    'replication': 复制
+    'connection management': 连接管理
+    'configuration': 配置
+    'plugins': 插件
+    'c api': C API
+    'additional target types for casts': CAST() 和 CONVERT()
+    'json schema validation': JSON模式验证
+    'multi valued indexes': 多值索引
+    'hintable time zone': 提示时区
+    'redo log archiving': 重做日志归档
+    'the clone plugin': 克隆插件
+    'hash join optimization': 哈希联接优化
+    'explain analyze statement': EXPLAIN ANALYZE语句
+    'query cast injection': 强制转换操作
+    'time zone support for timestamp and datatime': TIMESTAMP和DATETIME的时区支持
+    'precise information for json schema check constraint': 有关JSON模式CHECK约束失败的精确信息
+    'row and columns aliases with on duplicate key update': 行和列别名具有ON DUPLICATE KEY UPDATE
+    'sql standard explicit table clause and table value constructor': SQL标准的显式表子句和表值构造函数
+    'optimizer hints for force index ignore index': FORCE INDEX，IGNORE INDEX的优化程序提示
+    'json value function': JSON_VALUE函数
+    'user comments and user attributes': 用户注释和用户属性
+    'new optimizer switch flags': 新的optimizer_switch标志
+    'xml enhancements': XML增强功能
+
+  database:
+    mysql: MySQL
+    overview: 概览
+    booboo_mysql: MySQL 基础
+    dba_mysql: MySQL 运维实践
+    rds_mysql: RDS 性能调优
+    security: 安全篇
+    awesome-tools: 工具篇
+
+    oracle: Oracle
+    ocp: Oracle12C OCP
+    oracle-12c: Oracle 12c 学习笔记
+    oracle-11g: Oracle 11g 学习笔记
+
+    nosql: NoSQL
+    booboo_redis: Redis 基础
+    dba_redis: Redis 进阶
+    booboo_mongodb: MongoDB 基础
+    hadoop: Hadoop 基础
+
+    tidb: TiDB
+    00_tidb入门指南: TiDB 入门指南
+    01_raft协议理解: Raft协议理解
+    02_tidb21天课程: TiDB 21天课程
+
+
+  linux:
+    getting_started: 开始使用
+    overview: 概览
+    0_linux_base: Linux 中级
+    booboo_linux_base: Linux 基础
+    booboo_easy_service: Linux 简易服务
+    booboo_bash_shell_scripts: Linux 脚本编程
+    booboo_middle_service: Linux 进阶
+
+    1_linux_dayday: Linux 日常
+
+    2_excellent_tools: Ex-Tools
+
+    3_lamp: LAMP
+
+    4_docker: Docker
+
+    5_tick: TICK
+    kapacitor: Kapacitor
+
+    6_devops: Devops
+    bootstrap: Bootstrap
+    report-report-html: 表格Dmo
+    booboo_python: Python 基础
+    00_python_base: Python 进阶
+    01_python_net: Python 网络开发
+    02_python_threads: Python 并发编程
+    11_flask_admin: Flask_admin
+    12_mini_project: 迷你小项目
+
+    7_git: Git
+    Git基础: Git 基础
+    Git常见场景: Git 常见场景
+    Git多人协作: Git 多人协作
+    Git集成使用禁忌: Git 集成使用禁忌
+    GitHub初识: GitHub 初识
+    GitHub使用: GitHub 使用 
+    Github同步: Github 同步
+    GitLab实践: GitLab 实践
+
+  cloud:
+    getting_started: 开始使用
+    overview: 概览
+    aliyun: 阿里云
+    tencent: 腾讯云
+    aws: 亚马逊云
+    azure: 微软云
