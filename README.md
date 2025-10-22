@@ -1,5 +1,7 @@
 # Booboo Wei 的个人网站
 
+www.toberoot.com
+
 <!-- Markdown snippet -->
 
 [![Build Status](https://travis-ci.org/hexojs/site.svg?branch=master)](https://travis-ci.org/hexojs/site)
