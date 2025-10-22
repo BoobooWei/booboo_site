@@ -1,8 +1,8 @@
 ---
-title: { { title } }
+title: {{ title }}
 categories:
-  - news
+  - [随笔, 技术, 生活]
 tags:
-  - 技术
-date: { { date } }
+  - xx
+date: {{ date }}
 ---
