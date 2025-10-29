@@ -5,7 +5,9 @@ docs:
     try_hexo_6.1: /docs/01-try-hexo-6.1.html
     deploy_hexo_8.0: /docs/02-deploy-hexo-8.0.html
     hexo_navy: /docs/03-theme-navy.html
-
+    hexo_menu: /docs/04-menu-add.html
+  add_new_file:
+    add_amy: /docs/06-post-new-file.html
 
 singapore:
   getting_started:

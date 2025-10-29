@@ -34,6 +34,9 @@ sidebar:
     try_hexo_6.1: 尝试 Hexo@6.1
     deploy_hexo_8.0: 部署 Hexo@8.0
     hexo_navy: 主题 Navy 
+    hexo_menu: 添加 Menu
+    add_new_file: 添加文章
+    add_amy: 添加AMY专栏文章
 
 
 
