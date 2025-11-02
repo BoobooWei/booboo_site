@@ -19,4 +19,4 @@ title: Amazon Aurora
 
 **学习笔记**
 
-- [如何删除AuroraMySQL集群](/cloud/aws/rds/如何删除AuroraMySQL集群.html)
+- [如何删除AuroraMySQL集群](/linux/8_cloud/aws/rds/如何删除AuroraMySQL集群.html)

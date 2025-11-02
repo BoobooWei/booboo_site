@@ -29,3 +29,14 @@ Run server:
 ```bash
 $ hexo server
 ```
+
+
+```bash
+cd /bioai/00_plan/
+# index 
+ll *.md | awk '{print "* ["$9"](/bioai/00_plan/"$9")"}' | sed 's/.md//'|sed 's/.md/.html/g'
+# sidebar
+ll *.md | awk '{print ""$9": /bioai/00_plan/"$9""}' | sed 's/.md//'|sed 's/.md/.html/g' 
+# en
+ll *.md | awk '{print ""$9": "$9""}' | sed 's/.md//'|sed 's/.md//g'
+```

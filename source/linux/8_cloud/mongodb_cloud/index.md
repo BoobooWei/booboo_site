@@ -4,18 +4,18 @@ title: MongoDB Cloud 云实践
 
 > 记录 MongoDB Cloud 之 MongoDB Altars 实践
 
-# [MongoDB Atlas](https://www.mongodb.com/cloud/atlas)
+# [MongoDB Atlas](https://www.mongodb.com/linux/8_cloud/atlas)
 
 Move faster with a true multi-cloud database service for MongoDB built for agile teams who’d rather spend time building apps than managing databases.
 
 Available on AWS, Google Cloud, and Azure.
 
-- [01_get_started_with_atlas](/cloud/mongodb_cloud/01_get_started_with_atlas.html)
-- [02\_熟悉MongoDB Altars 云平台集群管理界面](/cloud/mongodb_cloud/02_熟悉MongoDBAltars云平台集群管理界面.html)
-- [03\_熟悉MongoDB Altars 云平台监控Alter功能](/cloud/mongodb_cloud/03_熟悉MongoDBAltars云平台监控Alter功能.html)
+- [01_get_started_with_atlas](/linux/8_cloud/mongodb_cloud/01_get_started_with_atlas.html)
+- [02\_熟悉MongoDB Altars 云平台集群管理界面](/linux/8_cloud/mongodb_cloud/02_熟悉MongoDBAltars云平台集群管理界面.html)
+- [03\_熟悉MongoDB Altars 云平台监控Alter功能](/linux/8_cloud/mongodb_cloud/03_熟悉MongoDBAltars云平台监控Alter功能.html)
 
 ```bash
-ll *.md | awk '{print "* ["$9"](/cloud/mongodb_cloud/"$9")"}' | sed 's/.md//'|sed 's/.md/.html/g'
+ll *.md | awk '{print "* ["$9"](/linux/8_cloud/mongodb_cloud/"$9")"}' | sed 's/.md//'|sed 's/.md/.html/g'
 ```
 
 # [mtools](http://blog.rueckstiess.com/mtools/index.html)

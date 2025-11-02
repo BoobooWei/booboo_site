@@ -11,7 +11,7 @@ menu:
   database: Database
   devops: DevOps
   linux: Linux
-  cloud: Cloud
+  bioai: BioAI
 
 index:
   get_started: Get started
@@ -197,10 +197,16 @@ sidebar:
     Github同步: Github 同步
     GitLab实践: GitLab 实践
 
-  cloud:
-    getting_started: 开始使用
+    8_cloud: Cloud
+    aliyun: Aliyun Cloud
+    aws: AWS Cloud
+    tencent: Tencent Cloud
+    azure: Azure Cloud
+    mongodb: MongoDB Cloud
+
+ 
+  bioai:
     overview: 概览
-    aliyun: 阿里云
-    tencent: 腾讯云
-    aws: 亚马逊云
-    azure: 微软云
+    00_plan: BioAI Plan
+    00_确定研究方向: 00_确定研究方向
+    01_制定学习计划: 01_制定学习计划

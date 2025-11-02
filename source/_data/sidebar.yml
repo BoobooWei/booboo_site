@@ -137,7 +137,13 @@ linux:
     GitHub使用: /linux/7_git/Chapter07/index.html
     Github同步: /linux/7_git/Chapter03/index.html
     GitLab实践: /linux/7_git/Chapter08/index.html
-
+  8_cloud:
+    overview: /linux/8_cloud/index.html
+    aliyun: /linux/8_cloud/aliyun/index.html
+    aws: /linux/8_cloud/aws/index.html
+    tencent: /linux/8_cloud/tencent/index.html
+    azure: /linux/8_cloud/azure/index.html
+    mongodb: /linux/8_cloud/mongodb_cloud/index.html
 
 database:
   mysql:
@@ -165,10 +171,8 @@ database:
     02_tidb21天课程: /database/tidb/tidb_courses/index.html
 
 
-cloud:
-  getting_started:
-    overview: /cloud/index.html
-    aliyun: /cloud/aliyun/index.html
-    tencent: /cloud/tencent/index.html
-    aws: /cloud/aws/index.html
-    azure: /cloud/azure/index.html
+bioai:
+  00_plan:
+    overview: /bioai/00_plan/index.html
+    00_确定研究方向: /bioai/00_plan/00_确定研究方向.html
+    01_制定学习计划: /bioai/00_plan/01_制定学习计划.html

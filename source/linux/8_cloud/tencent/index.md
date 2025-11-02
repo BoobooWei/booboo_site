@@ -6,7 +6,7 @@ title: Tencent Cloud
 
 # 记录
 
-- [腾讯云CloudLite认证](/cloud/tencent/cloud_lite_mysql.html)
+- [腾讯云CloudLite认证](/linux/8_cloud/tencent/cloud_lite_mysql.html)
 
 # 腾讯云大学
 
