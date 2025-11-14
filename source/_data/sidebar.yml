@@ -176,3 +176,6 @@ bioai:
     overview: /bioai/00_plan/index.html
     00_确定研究方向: /bioai/00_plan/00_确定研究方向.html
     01_制定学习计划: /bioai/00_plan/01_制定学习计划.html
+  01_第一阶段: 
+    overview: /bioai/01_第一阶段/index.html
+    00_实验1: /bioai/01_第一阶段/00_实验1.html
