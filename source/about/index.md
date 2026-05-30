@@ -12,7 +12,7 @@ title: About
 
 ## Who
 
-魏亚萍, 90后, INFJ, 白羊
+90后, INFJ, 白羊
 
 10年沪漂
 

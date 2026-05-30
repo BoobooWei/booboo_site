@@ -1,9 +1,10 @@
 hexo: /docs/
 news: /news/
+ai: /ai/
 MySQL8.0: /api/
 database: /database/
 linux: /linux/
-bioai: /bioai/
+# bioai: /bioai/
 # plugins: /plugins/
 # themes: /themes/
 singapore: /singapore/

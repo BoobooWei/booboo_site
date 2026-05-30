@@ -1,5 +1,6 @@
 menu:
   hexo: Hexo
+  ai: AI
   MySQL8.0: MySQL8.0
   news: News
   plugins: Plugins
@@ -11,7 +12,7 @@ menu:
   database: Database
   devops: DevOps
   linux: Linux
-  bioai: BioAI
+  # bioai: BioAI
 
 index:
   get_started: Get started
@@ -206,10 +207,21 @@ sidebar:
     mongodb: MongoDB Cloud
 
  
-  bioai:
+  # bioai:
+  #   overview: 概览
+  #   00_plan: BioAI Plan
+  #   00_确定研究方向: 00_确定研究方向
+  #   01_制定学习计划: 01_制定学习计划
+  #   01_第一阶段: "阶段 1"
+  #   00_实验1: "实验 1"
+
+  ai:
+    getting_started: 斯坦福大学
     overview: 概览
-    00_plan: BioAI Plan
-    00_确定研究方向: 00_确定研究方向
-    01_制定学习计划: 01_制定学习计划
-    01_第一阶段: "阶段 1"
-    00_实验1: "实验 1"
+    00-Artificial_Intelligence_Professional_Program: 00_项目介绍
+    01-Stanford_Online_实际申请流程: 01_在线申请Stanford
+    02-AI推荐一个学习路径: 02_AI推荐学习路径
+    03-自学课程: 03_自学课程
+    XCS224N: XCS224N
+    '01.XCS224N_course_summary_课程大纲': 00_课程大纲
+    '02.XCS224N_orientation_summary_课程开始前必须知道的事项': 01_课前准备

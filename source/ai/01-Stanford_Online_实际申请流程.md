@@ -1,8 +1,8 @@
 ---
-title: 斯坦福官方：职场 AI 进阶路线
+title: Stanford Online 实际申请流程
 ---
 
-> Artificial Intelligence Professional Program
+> 斯坦福官方：Artificial Intelligence Professional Program 人工智能专业教育项目
 
 目标: 通过 **Stanford Online** 学习课程
 本质: 走 **远程注册 + 非学位学习** 的路线
@@ -33,7 +33,7 @@ XCS221：人工智能：原理与技术 (入门/进阶)
 
 https://online.stanford.edu/courses/xcs221-artificial-intelligence-principles-and-techniques
 
-![alt text](image-5.png)
+![alt text](pic/image-5.png)
 
 - 适合理由： 这是 AI 的“百科全书”，涵盖搜索算法、博弈论和概率推理。作为 DBA，你会发现其中的“贝叶斯网络”和“逻辑推理”与数据库查询优化逻辑有异曲同工之妙。
 
@@ -60,13 +60,13 @@ CS230：CS230 帮助学生积累扎实的实战经验，到课程结束时，达
 > XCS221: Artificial Intelligence: Principles and Techniques 
 
 
-![alt text](image-2.png)
+![alt text](pic/image-2.png)
 
-![alt text](image-3.png)
+![alt text](pic/image-3.png)
 
-![alt text](image-4.png)
+![alt text](pic/image-4.png)
 
-![alt text](image.png)
+![alt text](pic/image-9.png)
 
 #### 回答问题
 
@@ -120,13 +120,13 @@ We are currently building AI-driven tools for automated slow SQL analysis and na
 I am interested in this program because it provides the rigorous, technical framework I need to bridge the gap between "data storage" and "data intelligence." My goal is simple: to gain the theoretical depth required to architect and govern AI-native data infrastructures that are as reliable and cost-efficient as the traditional systems I’ve managed for over a decade.
 ```
 
-![alt text](image-1.png)
+![alt text](pic/image-1.png)
 
 第二天收到申请通过的邮件
 
-![alt text](image-7.png)
+![alt text](pic/image-7.png)
 
-![alt text](image-8.png)
+![alt text](pic/image-8.png)
 
 需要从这些课程中至少完成3门课程才能获取人工智能专业证书。
 
@@ -172,34 +172,4 @@ Per course $1,950 USD
 
 - **XCS234 / XCS224R (RL):** 强化学习的反馈是延迟的，这导致它的**数学期望推导**非常复杂。它是这几门课中最容易让人产生“每个字都认识，连起来不知道在说什么”感觉的课程。
 - **XCS236 (Generative Models):** 它的难点在于**采样理论和密度估计**。如果你不习惯处理高维概率分布，这门课会非常吃力。
-
-### 我的选择
-
-XCS221
-XCS224W
-XCS236
-
-这与我职业背景和正在解决的实际问题（如 SQL 自动分析、GraphDB、向量数据库）有着极高的契合度。
-
-### 1. XCS221：构建 AI 治理的“全景图”
-
-- **对应需求：** "Systematic understanding of AI principles" & "DB on-call agents".
-- **核心价值：**  DB On-call Agent 本质上是一个**决策系统**。XCS221 中关于“搜索（Search）”和“马尔可夫决策过程（MDP）”的内容，正是处理这种基于状态改变（数据库指标异常）并做出反应（触发自愈或优化建议）的底层逻辑。
-- **对我的意义：** 它能帮我从架构师视角理解 AI 系统是如何在不确定性环境下做决策的，而不只是把 AI 当成一个“黑盒”。
-
-### 2. XCS224W：掌握复杂数据关系的“钥匙”
-
-- **对应需求：** "Graph Databases (NebulaGraph)" & "Slow SQL Analysis".
-- **核心价值：** 慢 SQL 的根因分析往往不是孤立的指标，而是涉及 Schema、索引、执行计划、表间关系的**关联分析**。这些天然就是“图”结构。
-- **对你的意义：** 这门课教你如何将 NebulaGraph 中的原始图数据转化为深度学习模型可理解的向量（Embeddings）。作为架构师，你将能够主导如何利用 **GNN（图神经网络）** 来预测数据库性能瓶颈，甚至进行库表关系的自动化治理。
-
-### 3. XCS236：驱动 AI-Native 基础设施的“引擎”
-
-- **对应需求：** "AI-native data infrastructures" & "Cost-efficient".
-- **核心价值：** 生成模型不只是为了生成文本，它在**数据合成（Data Synthesis）**和**异常检测（Anomaly Detection）**中极具价值。
-- **对你的意义：** * **仿真测试：** 利用生成模型生成极其接近真实负载的测试数据（Synthetic Data），在不触碰隐私的情况下进行压力测试。
-  - **架构治理：** 深度理解生成模型能帮你更好地设计支持 **Vector DB (Qdrant)** 的上层应用架构，特别是在处理 RAG（检索增强生成）时的性能调优和治理方案。
-
-
-![alt text](image-6.png)
 

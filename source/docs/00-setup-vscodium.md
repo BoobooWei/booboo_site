@@ -177,3 +177,9 @@ brew install --cask vscodium
 ```
 
 保存文件 → 按 `Ctrl + Shift + V` 打开右侧实时预览，你会看到自动生成的目录 🎉
+
+
+## 8 安装codex插件
+
+
+Codex — OpenAI's coding agent
